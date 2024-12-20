@@ -24,10 +24,10 @@ This project is a simple frontend clone of the Amazon website, built using **HTM
 
 ## Screenshots
 ### Homepage
-![Homepage](images/bigbox2.jpg)
+![Homepage](bigbox2.jpg)
 
 ### Product Listings
-![Product Listings](images/sbox1.jpg
+![Product Listings](sbox1.jpg
 
 ## Future Enhancements
 - Add interactivity using JavaScript for dynamic behavior.
